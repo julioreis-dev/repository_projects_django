@@ -1,2 +1,2 @@
 # repository_projects_django
-repositorio de diversos projetos django
+Repositorio de diversos projetos django desenvolvidos.
